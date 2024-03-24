@@ -10,4 +10,5 @@ Our solution utilizes Gen AI and Intel tools to analyze user requirements and re
 1.Simplify the selection of computer components for users.
 
 2.Provide accurate and personalized recommendations based on user requirements.
+
 3.Improve the overall user experience and increase customer satisfaction.
