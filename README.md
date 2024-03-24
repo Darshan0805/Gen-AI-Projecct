@@ -8,7 +8,5 @@ Our goal is to develop a recommendation system that helps users overcome these c
 Our solution utilizes Gen AI and Intel tools to analyze user requirements and recommend compatible computer components. By considering compatibility, performance, brand preferences, and aesthetic characteristics, we provide personalized recommendations that enhance the user experience.
 # Goals
 1.Simplify the selection of computer components for users.
-
 2.Provide accurate and personalized recommendations based on user requirements.
-
 3.Improve the overall user experience and increase customer satisfaction.
