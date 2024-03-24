@@ -14,9 +14,9 @@ Our solution utilizes Gen AI and Intel tools to analyze user requirements and re
 3.Improve the overall user experience and increase customer satisfaction.
 
 # Tools
-### Gen AI: Utilized for analyzing user requirements and providing personalized recommendations.
-### Intel Tools: Leveraged for optimized performance and efficient processing.
-### Colab: Google Colaboratory, a free Jupyter notebook environment, for developing and running Python code in the browser.
-### Hugging Face: A platform for NLP that provides pre-trained models, datasets, and libraries, including the Transformers library.
-### Intel Extension for PyTorch: Optimized versions of PyTorch for Intel hardware, providing performance benefits for deep learning tasks.
-### Streamlit: A framework for building interactive web applications for machine learning and data science projects.
+##### Gen AI: Utilized for analyzing user requirements and providing personalized recommendations.
+##### Intel Tools: Leveraged for optimized performance and efficient processing.
+##### Colab: Google Colaboratory, a free Jupyter notebook environment, for developing and running Python code in the browser.
+##### Hugging Face: A platform for NLP that provides pre-trained models, datasets, and libraries, including the Transformers library.
+##### Intel Extension for PyTorch: Optimized versions of PyTorch for Intel hardware, providing performance benefits for deep learning tasks.
+##### Streamlit: A framework for building interactive web applications for machine learning and data science projects.
